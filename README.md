@@ -9,3 +9,7 @@ Usage:
 ----output:
 
 U in lambda | corr_re | corr_im | wt
+
+
+If you using this code, please cite Choudhuri et. al. (2014)
+https://ui.adsabs.harvard.edu/abs/2014MNRAS.445.4351C/abstract
